@@ -3,7 +3,7 @@
  * Author: Justin Fraumeni
  * Date: 7/25/16
  * 
- * OONF OLSRD2 plugin to enable multigroup routing between WiFi-P2P groups.
+ * OONF OLSRD3 plugin to enable multigroup routing between WiFi-P2P groups.
  * When provided with a control interface name, p2p_route dynamically configures 
  * virtual group interfaces as they are created during a olsrd2 session.
  *
